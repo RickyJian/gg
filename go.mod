@@ -1,4 +1,4 @@
-module gg
+module github.com/RickyJian/gg
 
 go 1.22.0
 
