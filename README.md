@@ -8,10 +8,6 @@
 
     go get -u github.com/RickyJian/gg
 
-Alternatively, you may use gopkg.in to grab a specific major-version:
-
-    go get -u gopkg.in/fogleman/gg.v1
-
 ## Documentation
 
 - godoc: https://godoc.org/github.com/RickyJian/gg
